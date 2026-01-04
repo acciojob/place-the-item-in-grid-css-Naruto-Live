@@ -1,6 +1,6 @@
 .holder{
-	width: 600px;
-	height: 600px;
+	width: 200px;
+	height: 200px;
 	border: 5px solid greenyellow;
 	display: grid;
 	grid-template-columns: repeat(2,1fr);

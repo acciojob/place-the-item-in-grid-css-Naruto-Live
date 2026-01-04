@@ -1,2 +1,26 @@
+.holder{
+	width: 600px;
+	border: 5px solid greenyellow;
+	display: grid;
+	grid-template-columns: repeat(2,200px);
+}
 
-/* Your CSS Code here. */
+.item{
+	border: 2px solid black;
+}
+
+.r{
+	background-color: red;
+}
+
+.bu{
+	background-color: blue;
+}
+
+.g{
+	background-color: green;
+}
+
+.y{
+	background-color: yellow;
+}
